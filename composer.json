@@ -1,0 +1,13 @@
+{
+  "name": "nwcode4hire/php-resque-statsd",
+	"type": "library",
+	"authors": [
+		{
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"php-resque-statsd": "lib/"
+		}
+	}
+}
